@@ -3,7 +3,7 @@ import math
 import mysum
 
 def main():
-
+    # Some changes made here
     while True:
         
         # Выводим сообщение какие действия есть
